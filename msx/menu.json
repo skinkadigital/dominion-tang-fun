@@ -1,1 +1,79 @@
 
+{
+  "name": "DOMINION TANG.FUN",
+  "version": "1.0.0",
+  "headline": "DOMINION TANG.FUN",
+  "menu": [
+    {
+      "icon": "home",
+      "label": "INÍCIO",
+      "data": {
+        "type": "pages",
+        "pages": [{
+          "items": [{
+            "layout": "0,0,12,6",
+            "label": "BEM-VINDO AO DOMINION",
+            "action": "info:DOMINION TANG.FUN - Entretenimento Premium"
+          }]
+        }]
+      }
+    },
+    {
+      "icon": "live-tv",
+      "label": "TV AO VIVO",
+      "data": {
+        "type": "pages",
+        "pages": [{
+          "items": [{
+            "layout": "0,0,12,6",
+            "label": "CANAIS AO VIVO",
+            "action": "info:Adicione suas fontes autorizadas de TV ao vivo"
+          }]
+        }]
+      }
+    },
+    {
+      "icon": "movie",
+      "label": "FILMES",
+      "data": {
+        "type": "pages",
+        "pages": [{
+          "items": [{
+            "layout": "0,0,12,6",
+            "label": "CATÁLOGO DE FILMES",
+            "action": "info:Adicione seus filmes autorizados"
+          }]
+        }]
+      }
+    },
+    {
+      "icon": "movie",
+      "label": "SÉRIES",
+      "data": {
+        "type": "pages",
+        "pages": [{
+          "items": [{
+            "layout": "0,0,12,6",
+            "label": "CATÁLOGO DE SÉRIES",
+            "action": "info:Adicione suas séries autorizadas"
+          }]
+        }]
+      }
+    },
+    {
+      "icon": "star",
+      "label": "FAVORITOS",
+      "data": {
+        "type": "pages",
+        "pages": [{
+          "items": [{
+            "layout": "0,0,12,6",
+            "label": "MEUS FAVORITOS",
+            "action": "info:Área de favoritos do DOMINION"
+          }]
+        }]
+      }
+    }
+  ]
+}
+
