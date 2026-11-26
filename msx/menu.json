@@ -33,7 +33,7 @@
         "items": [
           {
             "title": "CANAIS AO VIVO",
-            "action": "info:Adicione suas fontes autorizadas de TV ao vivo"
+            "action": "content:https://msx.benzac.de/services/m3u.php?type=video&url=URL_M3U_CODIFICADA"
           }
         ]
       }
